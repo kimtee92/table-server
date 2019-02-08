@@ -19,7 +19,7 @@
   "devDependencies": {
     "@types/mongodb": "^3.1.19",
     "@types/mongoose": "^5.3.12",
-    "gulp": "~3.9.1",
+    "gulp": "^4.0.0",
     "gulp-typescript": "~3.2.1",
     "typescript": "~2.5.0"
   }
