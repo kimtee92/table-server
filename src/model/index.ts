@@ -1,0 +1,1 @@
+export { iGuest } from './guest';

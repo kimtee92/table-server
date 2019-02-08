@@ -1,0 +1,26 @@
+{
+  "name": "table-server",
+  "version": "0.0.1",
+  "description": "server for my guestbook",
+  "main": "index.js",
+  "author": "Kim Lester Tee",
+  "license": "MIT",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@types/express": "~4.0.36",
+    "@types/socket.io": "~1.4.29",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10",
+    "socket.io": "~2.0.3",
+    "typegoose": "^5.5.0"
+  },
+  "devDependencies": {
+    "@types/mongodb": "^3.1.19",
+    "@types/mongoose": "^5.3.12",
+    "gulp": "~3.9.1",
+    "gulp-typescript": "~3.2.1",
+    "typescript": "~2.5.0"
+  }
+}
